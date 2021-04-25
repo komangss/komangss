@@ -3,6 +3,9 @@
 My Name Is Im Antonio Komang Yudistira, A passionate Android Developer from :indonesia:
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ![Waifu](https://media.tenor.com/images/65c7440150143f89acf1c29bd31d26c1/tenor.gif)
