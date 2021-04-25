@@ -6,7 +6,8 @@ My Name Is Im Antonio Komang Yudistira, A passionate Android Developer from :ind
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java   3 hrs 7 mins    ████████████████████████▒   97.09 % 
+XML    5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 <!--END_SECTION:waka-->
 
