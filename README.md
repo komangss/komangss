@@ -13,7 +13,7 @@ XML    5 mins          ▓░░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-### Languages & Tools Preference
+### 🛠 &nbsp;Tech Stack
 <img align="left" alt="Android"  src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img align="left" alt="Java"  src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img align="left" alt="Kotlin"  src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>
@@ -26,4 +26,9 @@ XML    5 mins          ▓░░░░░░░░░░░░░░░░░░
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=komangss&show_icons=true">
   <img src="https://github-profile-trophy.vercel.app/?username=komangss">
+  <hr>
+  <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komangss&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komangss&theme=radical" alt="komangss" /></p> 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=komangss&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 </details>
