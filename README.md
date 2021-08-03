@@ -7,8 +7,8 @@ My Name Antonio Komang Yudistira :slightly_smiling_face:, A passionate Android D
 ##### My Current Coding Activity :D
 <!--START_SECTION:waka-->
 ```text
-Java   5 hrs 2 mins    ███████████████▓░░░░░░░░░   63.06 % 
-XML    2 hrs 57 mins   █████████▒░░░░░░░░░░░░░░░   36.94 % 
+Java   4 hrs 30 mins   ███████████████░░░░░░░░░░   60.43 % 
+XML    2 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   39.57 % 
 ```
 <!--END_SECTION:waka-->
 
