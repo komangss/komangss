@@ -7,11 +7,11 @@ My Name Antonio Komang Yudistira :slightly_smiling_face:, A passionate Android D
 ##### My Current Coding Activity :D
 <!--START_SECTION:waka-->
 ```text
-Java         4 hrs 51 mins   ██████████████░░░░░░░░░░░   56.39 % 
-XML          3 hrs 16 mins   █████████▓░░░░░░░░░░░░░░░   38.03 % 
-Kotlin       24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Groovy       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+XML          4 hrs 53 mins   █████████████▓░░░░░░░░░░░   54.38 % 
+Java         3 hrs 37 mins   ██████████░░░░░░░░░░░░░░░   40.28 % 
+Kotlin       24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Groovy       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 
