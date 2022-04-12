@@ -8,12 +8,12 @@ My Name Antonio Komang Yudistira :slightly_smiling_face:, A passionate Android D
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       7 hrs 30 mins   ██████████████████░░░░░░░   72.08 %
-JSON             58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-Kotlin           48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-HTML             35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-TypeScript       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-XML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+JavaScript   7 hrs 8 mins    ██████████████████▒░░░░░░   73.81 %
+Kotlin       48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+HTML         42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+JSON         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+XML          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+TypeScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
