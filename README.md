@@ -8,12 +8,12 @@ My Name Antonio Komang Yudistira :slightly_smiling_face:, A passionate Android D
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin       17 mins         ██████████▒░░░░░░░░░░░░░░   41.88 %
-XML          11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
-JavaScript   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-Groovy       5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
-HTML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+PHP             3 hrs 35 mins   ████████████████████▒░░░░   81.26 %
+Kotlin          17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+XML             11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+JavaScript      10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Groovy          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Bash            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
