@@ -8,9 +8,9 @@ My Name Antonio Komang Yudistira :slightly_smiling_face:, A passionate Android D
 <!--START_SECTION:waka-->
 
 ```text
-PHP          1 hr 2 mins     ████████████████████▒░░░░   81.43 %
-JavaScript   14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+PHP          1 hr 2 mins     ████████████████████░░░░░   80.39 %
+JavaScript   14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
