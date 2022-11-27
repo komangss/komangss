@@ -8,8 +8,8 @@ My Name Antonio Komang Yudistira :slightly_smiling_face:, A passionate Android D
 <!--START_SECTION:waka-->
 
 ```text
-HTML    1 hr 37 mins    █████████████████▓░░░░░░░   70.43 %
-Other   40 mins         ███████▒░░░░░░░░░░░░░░░░░   28.96 %
+HTML    1 hr 39 mins    ██████████████████▒░░░░░░   72.72 %
+Other   37 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
 ```
 
 <!--END_SECTION:waka-->
